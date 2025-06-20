@@ -27,7 +27,6 @@
       "16": "assets/icons/icon16.png",
       "48": "assets/icons/icon48.png"
    },
-   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnrCDOgHq/bzrWewvONM/kSl8s1a/oG5BvMzL2KybZN1RMwGaNGoCTKdWM768EpUthKj08SuGLO/1n/ajBn6DW+MlIhvPPl51xir5os5k7qRddUkuxdsTZ/DSA/9Pz72ek4Z37QmTZW+3xL4IjiHce1FHcmNLHrrA2rpl5WMxudRgpi5siZSv+wwHmd/vWCQxkFy20Zf2yx0Q11r7S6OCexwzWac7FbBKkPKu68i6GHVZoIB6U4sw9saWesscaTCQRMhOKwNJ3wCrLzqbAaMJgMIBEU8pGd2teWECim+BDQqX14xGLyon0kp3IU22vzZxKuubIr38wEw8c6Yd1tQKIwIDAQAB",
    "manifest_version": 3,
    "minimum_chrome_version": "88",
    "name": "Deep Fake Detector",
