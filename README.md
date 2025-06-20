@@ -1,9 +1,9 @@
 # Deep-Fake-Detector
 The Fakespot Deepfake Detector will help you sort out text written by humans from text that has been created using AI tools.
 
-** Important Update: Deepfake Detector will shut down on June 26, 2025. **
+**Important Update: Deepfake Detector will shut down on June 26, 2025.**
 
-On June 26, you will no longer be able to use Deepfake Detector. Thanks for supporting our journey. 
+On June 26, you will no longer be able to use Deepfake Detector. I Reverse Engineered the code for you so it can be saved and maintain by someone else.
 
 The Fakespot Deepfake Detector extension will help you sort out text written by humans from text that has been created using AI tools.
 Features:
